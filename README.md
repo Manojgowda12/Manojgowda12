@@ -1,12 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:06B6D4,100:2563EB&height=220&section=header&text=MANOJ%20GOWDA%20V%20A&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
-💼Open For Hiring💼
+💼 Open For Hiring 💼
 
-#WEB DEVELOPER
+<p align="center">
+  <a href="https://github.com/Manojgowda12">
+    <img src="https://img.shields.io/github/followers/Manojgowda12?style=for-the-badge&logo=github&color=a3e635&labelColor=070709" alt="GitHub Followers" />
+  </a>
+  <a href="mailto:manojagowda5421@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact Me" />
+  </a>
+</p>
 
-#FULL STACK
+# WEB DEVELOPER
 
-#UI/UX PROFESSIONAL DESIGNER
+# FULL STACK
+
+# UI/UX PROFESSIONAL DESIGNER
 
 
 ## 🌐 Socials:
