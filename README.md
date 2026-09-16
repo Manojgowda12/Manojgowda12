@@ -1,34 +1,119 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:06B6D4,100:2563EB&height=220&section=header&text=MANOJ%20GOWDA%20V%20A&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+<div align="center">
 
-💼 Open For Hiring 💼
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070709,40:18181b,100:a3e635&height=220&section=header&text=MANOJ%20GOWDA%20V%20A&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Manoj Gowda V A GitHub Profile Banner" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=A3E635&center=true&vCenter=true&width=900&height=50&lines=AIML+Engineering+Student;Python+%E2%80%A2+AI+%26+Machine+Learning+%E2%80%A2+Web+Development;Building+Projects+%E2%80%A2+Learning+%E2%80%A2+Growing" alt="Typing introduction" />
 
 <p align="center">
-  <a href="https://github.com/Manojgowda12">
-    <img src="https://img.shields.io/github/followers/Manojgowda12?style=for-the-badge&logo=github&color=a3e635&labelColor=070709" alt="GitHub Followers" />
-  </a>
-  <a href="mailto:manojagowda5421@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact Me" />
-  </a>
+  <a href="https://github.com/Manojgowda12"><img src="https://img.shields.io/github/followers/Manojgowda12?style=for-the-badge&logo=github&color=a3e635&labelColor=070709" alt="GitHub followers" /></a>
+  <a href="mailto:manojagowda5421@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-# WEB DEVELOPER
+<p align="center">
+  <a href="https://linkedin.com/in/manoj-gowda-796257368"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/manojgowda5421"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-# FULL STACK
-
-# UI/UX PROFESSIONAL DESIGNER
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manojgowda5421) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/manoj-gowda-796257368)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manojagowda5421@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Manojgowda12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Manojgowda12&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Manojgowda12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Manojgowda12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+I’m **Manoj Gowda V A**, a 2nd-year **Artificial Intelligence & Machine Learning (AIML)** engineering student who enjoys learning by building practical projects.
+
+I’m currently developing my skills in **Python, AI/ML, web development, databases, Git/GitHub, and cloud tools**, while working toward becoming a strong software and AI engineer.
+
+```text
+Focus:        AI / ML • Python • Web Development • Databases
+Learning:     Machine Learning • Data Science • Git / GitHub
+Frontend:     HTML • CSS • JavaScript
+Backend:      Python • Streamlit
+Database:     MySQL • MongoDB • SQLite
+Cloud / Dev:  Google Cloud • Vercel • Render • Supabase
+Location:     India 🇮🇳
+```
+
+## 🚀 What I Like Building
+
+- AI and machine learning applications
+- Practical student-focused software projects
+- Data-driven prediction and analytics systems
+- Clean and responsive web applications
+- Projects that solve real-world problems
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Web & Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### AI / Data
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+</div>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=Manojgowda12&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="49%" alt="GitHub stats" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Manojgowda12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="49%" alt="Top languages" />
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com/?user=Manojgowda12&theme=dark&hide_border=false" width="100%" alt="Contribution streak" />
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manojgowda12/Manojgowda12/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manojgowda12/Manojgowda12/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Manojgowda12/Manojgowda12/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+## 🤝 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Manojgowda12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manojgowda12)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojagowda5421@gmail.com)
+
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Built with curiosity, consistency, and a passion for learning.</sub>
+</div>
