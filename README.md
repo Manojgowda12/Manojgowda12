@@ -35,7 +35,7 @@
 └──────────────────────────────────────────────────────────────────┘
 ```
 
-I’m a **2nd-year Artificial Intelligence & Machine Learning engineering student** focused on learning by building. I like turning ideas into working software, especially projects around **machine learning, prediction, research, data, and web applications**.
+I’m a **3rd-year Artificial Intelligence & Machine Learning engineering student** focused on learning by building. I like turning ideas into working software, especially projects around **machine learning, prediction, research, data, and web applications**.
 
 My goal is to keep improving from fundamentals to production-oriented engineering while sharing the things I build on GitHub.
 
