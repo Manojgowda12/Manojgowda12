@@ -85,6 +85,18 @@ A classification workflow using a Decision Tree with preprocessing, train/test s
 
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manojgowda12/Manojgowda12/gh-pages/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manojgowda12/Manojgowda12/gh-pages/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Manojgowda12/Manojgowda12/gh-pages/github-snake.svg" alt="GitHub contribution snake" width="100%" />
+</picture>
+
+</div>
+
 ## 🧩 What I’m Building Toward
 
 I want my GitHub to show **real progress**, not just a list of technologies.
