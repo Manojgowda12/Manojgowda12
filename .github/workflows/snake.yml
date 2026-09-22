@@ -21,8 +21,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
-            dist/github-snake.svg?color_snake=7C3AED&color_dots=F5F3FF,E9D5FF,D8B4FE,A78BFA,7C3AED
-            dist/github-snake-dark.svg?color_snake=C084FC&color_dots=2B1B3D,4C1D95,6D28D9,8B5CF6,C084FC
+            dist/github-snake-purple.svg?color_snake=7C3AED&color_dots=F5F3FF,E9D5FF,D8B4FE,A78BFA,7C3AED
+            dist/github-snake-purple-dark.svg?color_snake=C084FC&color_dots=2B1B3D,4C1D95,6D28D9,8B5CF6,C084FC
 
       - name: Publish snake to gh-pages
         uses: peaceiris/actions-gh-pages@v4
